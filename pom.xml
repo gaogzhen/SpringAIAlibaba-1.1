@@ -15,6 +15,8 @@
         <module>SAA-02Ollama</module>
         <module>SAA-03ChatModelChatClient</module>
         <module>SAA-04StreamingOutput</module>
+        <module>SAA-05Prompt</module>
+        <module>SAA-07StructuredOutput</module>
     </modules>
 
     <properties>
