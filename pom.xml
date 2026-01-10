@@ -17,6 +17,8 @@
         <module>SAA-04StreamingOutput</module>
         <module>SAA-05Prompt</module>
         <module>SAA-07StructuredOutput</module>
+        <module>SAA-08Persistent</module>
+        <module>SAA-11Embed2vector</module>
     </modules>
 
     <properties>
